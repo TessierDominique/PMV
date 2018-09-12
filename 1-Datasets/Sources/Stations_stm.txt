@@ -1,0 +1,628 @@
+1,10280,Station Henri-Bourassa,45.555277,-73.668172,0,1S,1
+1S,10280,Station Henri-Bourassa,45.555277,-73.668172,1,,1
+01-01,10280,Station Henri-Bourassa - Édicule rue Berri,45.554247,-73.668486,2,1S,2
+01-03,10280,Station Henri-Bourassa - Édicule Nord,45.555607,-73.668225,2,1S,2
+01-04,10280,Station Henri-Bourassa - Édicule Sud,45.556122,-73.667407,2,1S,1
+01-05,10280,Station Henri-Bourassa - Édicule Terminus Henri-Bourassa,45.555733,-73.667284,2,1S,2
+10,10262,Station Sherbrooke,45.519060,-73.569217,0,10S,2
+10S,10262,Station Sherbrooke,45.519060,-73.569217,1,,2
+10-01,10262,Station Sherbrooke - Édicule Berri Est,45.518901,-73.568524,2,10S,2
+10-02,10262,Station Sherbrooke - Édicule Berri Ouest,45.518334,-73.568208,2,10S,2
+11,10146,Station Berri-UQAM,45.515116,-73.560726,0,11S,1
+11S,10146,Station Berri-UQAM,45.515116,-73.560726,1,,1
+11-01,10146,Station Berri-UQAM - Édicule Sainte-Catherine,45.514851,-73.559654,2,11S,2
+11-02,10146,Station Berri-UQAM - Édicule St-Denis,45.514207,-73.561853,2,11S,1
+11-03,10146,Station Berri-UQAM - Édicule Berri,45.514980,-73.560861,2,11S,2
+11-04,10146,Station Berri-UQAM - Édicule Place-Dupuis,45.516520,-73.559770,2,11S,2
+11-05,10146,Station Berri-UQAM - Édicule Gare d'autocars de Montréal,45.515736,-73.561645,2,11S,2
+12,10258,Station Champ-de-Mars,45.510047,-73.556596,0,12S,1
+12S,10258,Station Champ-de-Mars,45.510047,-73.556596,1,,1
+12-01,10258,Station Champ-de-Mars - Édicule Nord,45.510192,-73.556331,2,12S,1
+12-02,10258,Station Champ-de-Mars - Édicule St-Antoine,45.509650,-73.554775,2,12S,2
+13,10256,Station Place-d'Armes,45.506348,-73.559548,0,13S,2
+13S,10256,Station Place-d'Armes,45.506348,-73.559548,1,,2
+13-01,10256,Station Place-d'Armes - Édicule St-Urbain,45.506165,-73.559729,2,13S,2
+13-02,10256,Station Place-d'Armes - Édicule Viger,45.505936,-73.560984,2,13S,2
+14,10254,Station Square-Victoria–OACI,45.501937,-73.563118,0,14S,2
+14S,10254,Station Square-Victoria–OACI,45.501937,-73.563118,1,,2
+14-01,10254,Station Square-Victoria-OACI - Édicule Viger,45.501498,-73.563703,2,14S,2
+14-02,10254,Station Square-Victoria-OACI - Édicule St-Antoine,45.501720,-73.562088,2,14S,2
+14-03,10254,Station Square-Victoria-OACI - Édicule St-Jacques,45.501194,-73.560755,2,14S,2
+14-04,10254,Station Square-Victoria-OACI - Édicule Côte-du-Beaver-Hall,45.501559,-73.562609,2,14S,2
+14-05,10254,Station Square-Victoria-OACI - Édicule Belmont,45.502357,-73.565113,2,14S,2
+15,10252,Station Bonaventure,45.498086,-73.567235,0,15S,2
+15S,10252,Station Bonaventure,45.498086,-73.567235,1,,2
+15-01,10252,Station Bonaventure - Édicule Peel,45.497315,-73.569010,2,15S,2
+15-02,10252,Station Bonaventure - Édicule De la Cathédrale,45.498069,-73.566947,2,15S,2
+16,10250,Station Lucien-L'Allier,45.494745,-73.571074,0,16S,2
+16S,10250,Station Lucien-L'Allier,45.494745,-73.571074,1,,2
+16-01,10250,Station Lucien-L'Allier,45.494912,-73.571090,2,16S,2
+17,10248,Station Georges-Vanier,45.488897,-73.576852,0,17S,2
+17S,10248,Station Georges-Vanier,45.488897,-73.576852,1,,2
+17-01,10248,Station Georges-Vanier,45.488953,-73.576446,2,17S,2
+18,10170,Station Honoré-Beaugrand,45.596572,-73.535376,0,18S,2
+18S,10170,Station Honoré-Beaugrand,45.596572,-73.535376,1,,2
+18-01,10170,Station Honoré-Beaugrand - Édicule Sherbrooke Sud,45.596593,-73.534630,2,18S,2
+18-02,10170,Station Honoré-Beaugrand - Édicule Sherbrooke Nord,45.596868,-73.535039,2,18S,2
+18-03,10170,Station Honoré-Beaugrand - Édicule Honoré-Beaugrand Nord,45.596957,-73.536332,2,18S,2
+19,10168,Station Radisson,45.589431,-73.539269,0,19S,2
+19S,10168,Station Radisson,45.589431,-73.539269,1,,2
+19-01,10168,Station Radisson - Édicule Sherbrooke Nord,45.589306,-73.539571,2,19S,2
+19-02,10168,Station Radisson - Édicule Sherbrooke Sud,45.589582,-73.538919,2,19S,2
+19-03,10168,Station Radisson - Édicule Terminus Radisson,45.589696,-73.539892,2,19S,2
+2,10278,Station Sauvé,45.550757,-73.656017,0,2S,2
+2S,10278,Station Sauvé,45.550757,-73.656017,1,,2
+02-01,10278,Station Sauvé - Édicule Nord,45.550713,-73.656464,2,2S,2
+02-02,10278,Station Sauvé - Édicule Sud,45.550640,-73.655907,2,2S,2
+20,10166,Station Langelier,45.582736,-73.543133,0,20S,2
+20S,10166,Station Langelier,45.582736,-73.543133,1,,2
+20-01,10166,Station Langelier - Édicule Sherbrooke Sud,45.582858,-73.542776,2,20S,2
+20-02,10166,Station Langelier - Édicule Langelier Ouest,45.582478,-73.542941,2,20S,2
+20-03,10166,Station Langelier - Édicule Sherbrooke Nord,45.582613,-73.543510,2,20S,2
+21,10164,Station Cadillac,45.576843,-73.546710,0,21S,2
+21S,10164,Station Cadillac,45.576843,-73.546710,1,,2
+21-01,10164,Station Cadillac - Édicule Sherbrooke Sud,45.577005,-73.546360,2,21S,2
+21-02,10164,Station Cadillac - Édicule Sherbrooke Nord,45.576844,-73.546964,2,21S,2
+22,10162,Station Assomption,45.569285,-73.547336,0,22S,2
+22S,10162,Station Assomption,45.569285,-73.547336,1,,2
+22-01,10162,Station Assomption,45.569229,-73.546797,2,22S,2
+23,10160,Station Viau,45.560687,-73.547530,0,23S,2
+23S,10160,Station Viau,45.560687,-73.547530,1,,2
+23-01,10160,Station Viau,45.560986,-73.547166,2,23S,2
+24,10158,Station Pie-IX,45.553688,-73.551757,0,24S,2
+24S,10158,Station Pie-IX,45.553688,-73.551757,1,,2
+24-01,10158,Station Pie-IX - Édicule Est,45.553920,-73.551831,2,24S,2
+24-02,10158,Station Pie-IX - Édicule Ouest,45.553578,-73.551963,2,24S,2
+25,10156,Station Joliette,45.546832,-73.551391,0,25S,2
+25S,10156,Station Joliette,45.546832,-73.551391,1,,2
+25-01,10156,Station Joliette - Édicule Hochelaga Nord,45.546980,-73.551510,2,25S,2
+25-02,10156,Station Joliette - Édicule Hochelaga Sud,45.546996,-73.551162,2,25S,2
+26,10154,Station Préfontaine,45.541717,-73.554192,0,26S,2
+26S,10154,Station Préfontaine,45.541717,-73.554192,1,,2
+26-01,10154,Station Préfontaine - Édicule Hochelaga Sud,45.541524,-73.554453,2,26S,2
+26-02,10154,Station Préfontaine - Édicule Hochelaga Nord,45.541641,-73.554790,2,26S,2
+27,10152,Station Frontenac,45.533504,-73.552196,0,27S,2
+27S,10152,Station Frontenac,45.533504,-73.552196,1,,2
+27-01,10152,Station Frontenac,45.533131,-73.552138,2,27S,2
+28,10150,Station Papineau,45.523988,-73.552703,0,28S,2
+28S,10150,Station Papineau,45.523988,-73.552703,1,,2
+28-01,10150,Station Papineau,45.523708,-73.552068,2,28S,2
+29,10148,Station Beaudry,45.518831,-73.555837,0,29S,2
+29S,10148,Station Beaudry,45.518831,-73.555837,1,,2
+29-01,10148,Station Beaudry,45.518977,-73.555850,2,29S,2
+3,10276,Station Crémazie,45.546082,-73.639052,0,3S,2
+3S,10276,Station Crémazie,45.546082,-73.639052,1,,2
+03-01,10276,Station Crémazie - Édicule Crémazie Sud,45.545715,-73.638037,2,3S,2
+03-02,10276,Station Crémazie - Édicule Terminus Crémazie,45.546186,-73.639303,2,3S,2
+03-03,10276,Station Crémazie - Édicule Crémazie Nord,45.545968,-73.638776,2,3S,2
+30,10144,Station Saint-Laurent,45.511033,-73.564899,0,30S,2
+30S,10144,Station Saint-Laurent,45.511033,-73.564899,1,,2
+30-01,10144,Station Saint-Laurent,45.510835,-73.564915,2,30S,2
+31,10142,Station Place-des-Arts,45.508220,-73.568433,0,31S,2
+31S,10142,Station Place-des-Arts,45.508220,-73.568433,1,,2
+31-01,10142,Station Place-des-Arts - Édicule Jeanne-Mance,45.508211,-73.568122,2,31S,2
+31-02,10142,Station Place-des-Arts - Édicule De Bleury Nord,45.507254,-73.569391,2,31S,2
+31-03,10142,Station Place-des-Arts - Édicule De Bleury Sud,45.507028,-73.568701,2,31S,2
+31-04,10142,Station Place-des-Arts - Édicule UQAM,45.509251,-73.568071,2,31S,2
+32,10140,Station McGill,45.504064,-73.571586,0,32S,2
+32S,10140,Station McGill,45.504064,-73.571586,1,,2
+32-01,10140,Station McGill - Édicule Tour KPMG,45.504117,-73.571310,2,32S,2
+32-02,10140,Station McGill - Édicule Union,45.504802,-73.571143,2,32S,2
+32-03,10140,Station McGill - Édicule Sainte-Catherine,45.504705,-73.570872,2,32S,2
+32-04,10140,Station McGill - Édicule University,45.504393,-73.572132,2,32S,2
+32-06,10140,Station McGill - Édicule De Maisonneuve,45.503450,-73.572045,2,32S,2
+32-07,10140,Station McGill - Édicule McGill College,45.503460,-73.572359,2,32S,2
+33,10138,Station Peel,45.500879,-73.574715,0,33S,2
+33S,10138,Station Peel,45.500879,-73.574715,1,,2
+33-01,10138,Station Peel - Édicule Ouest,45.500890,-73.574971,2,33S,2
+33-02,10138,Station Peel - Édicule Metcalfe,45.501543,-73.574218,2,33S,2
+33-03,10138,Station Peel - Édicule Est,45.501028,-73.574305,2,33S,2
+33-04,10138,Station Peel - Édicule Stanley,45.499937,-73.574713,2,33S,2
+34,10136,Station Guy-Concordia,45.495570,-73.579310,0,34S,2
+34S,10136,Station Guy-Concordia,45.495570,-73.579310,1,,2
+34-01,10136,Station Guy-Concordia - Édicule Guy,45.495678,-73.579056,2,34S,2
+34-02,10136,Station Guy-Concordia - Édicule St-Mathieu,45.494521,-73.580755,2,34S,2
+35,10134,Station Atwater,45.490068,-73.585812,0,35S,2
+35S,10134,Station Atwater,45.490068,-73.585812,1,,2
+35-01,10134,Station Atwater - Édicule De Maisonneuve,45.489770,-73.586290,2,35S,2
+35-02,10134,Station Atwater - Édicule Sainte-Catherine,45.489345,-73.584202,2,35S,2
+36,10132,Station Lionel-Groulx,45.482509,-73.580180,0,36S,1
+36S,10132,Station Lionel-Groulx,45.482509,-73.580180,1,,1
+36-01,10132,Station Lionel-Groulx,45.482878,-73.579601,2,36S,1
+37,10130,Station Charlevoix,45.478465,-73.569336,0,37S,2
+37S,10130,Station Charlevoix,45.478465,-73.569336,1,,2
+37-01,10130,Station Charlevoix,45.478318,-73.569349,2,37S,2
+38,10128,Station LaSalle,45.471063,-73.566267,0,38S,2
+38S,10128,Station LaSalle,45.471063,-73.566267,1,,2
+38-01,10128,Station LaSalle,45.470736,-73.566135,2,38S,2
+39,10126,Station De l'Église,45.461894,-73.567074,0,39S,2
+39S,10126,Station De l'Église,45.461894,-73.567074,1,,2
+39-01,10126,Station De l'Église - Édicule Wellington,45.461818,-73.567216,2,39S,2
+39-02,10126,Station De l'Église,45.462823,-73.565795,2,39S,2
+4,10274,Station Jarry,45.543191,-73.628765,0,4S,2
+4S,10274,Station Jarry,45.543191,-73.628765,1,,2
+04-01,10274,Station Jarry,45.543421,-73.628529,2,4S,2
+40,10124,Station Verdun,45.459441,-73.572021,0,40S,2
+40S,10124,Station Verdun,45.459441,-73.572021,1,,2
+40-01,10124,Station Verdun - Édicule Nord,45.459222,-73.571833,2,40S,2
+40-02,10124,Station Verdun - Édicule Sud,45.459163,-73.571521,2,40S,2
+41,10122,Station Jolicoeur,45.457010,-73.581691,0,41S,2
+41S,10122,Station Jolicoeur,45.457010,-73.581691,1,,2
+41-01,10122,Station Jolicoeur,45.456787,-73.582115,2,41S,2
+42,10120,Station Monk,45.451158,-73.593242,0,42S,2
+42S,10120,Station Monk,45.451158,-73.593242,1,,2
+42-01,10120,Station Monk - Édicule Nord,45.451307,-73.593128,2,42S,2
+42-02,10120,Station Monk - Édicule Sud,45.451007,-73.593380,2,42S,2
+43,10118,Station Angrignon,45.446466,-73.603118,0,43S,2
+43S,10118,Station Angrignon,45.446466,-73.603118,1,,2
+43-01,10118,Station Angrignon,45.446319,-73.603835,2,43S,2
+44,10454,Station Longueuil–Université-de-Sherbrooke,45.524890,-73.522098,0,44S,2
+44S,10454,Station Longueuil–Université-de-Sherbrooke,45.524890,-73.522098,1,,2
+44-01,10454,Station Longueuil–U.-de-Sherbrooke - Édicule Longueuil-U-de-S,45.525191,-73.521961,2,44S,2
+44-02,10454,Station Longueuil–U.-de-Sherbrooke - Édicule Terminus Longueuil,45.524631,-73.521989,2,44S,2
+44-03,10454,Station Longueuil–U.-de-Sherbrooke - Édicule De Sérigny,45.524711,-73.522632,2,44S,2
+45,10452,Station Jean-Drapeau,45.512429,-73.533127,0,45S,2
+45S,10452,Station Jean-Drapeau,45.512429,-73.533127,1,,2
+45-01,10452,Station Jean-Drapeau,45.512289,-73.533371,2,45S,2
+46,10244,Station Place-Saint-Henri,45.477320,-73.586629,0,46S,2
+46S,10244,Station Place-Saint-Henri,45.477320,-73.586629,1,,2
+46-01,10244,Station Place-Saint-Henri - Édicule St-Ferdinand,45.477199,-73.586634,2,46S,2
+46-02,10244,Station Place-Saint-Henri - Édicule St-Jacques Sud,45.477533,-73.585710,2,46S,2
+46-03,10244,Station Place-Saint-Henri - Édicule St-Jacques Nord,45.477566,-73.586247,2,46S,2
+47,10242,Station Vendôme,45.474101,-73.603706,0,47S,2
+47S,10242,Station Vendôme,45.474101,-73.603706,1,,2
+47-01,10242,Station Vendôme,45.473912,-73.604117,2,47S,2
+48,10238,Station Villa-Maria,45.479709,-73.619821,0,48S,2
+48S,10238,Station Villa-Maria,45.479709,-73.619821,1,,2
+48-01,10238,Station Villa-Maria,45.479501,-73.619884,2,48S,2
+49,10236,Station Snowdon,45.485562,-73.627547,0,49S,2
+49S,10236,Station Snowdon,45.485562,-73.627547,1,,2
+49-01,10236,Station Snowdon,45.485405,-73.627939,2,49S,1
+5,10272,Station Jean-Talon,45.539097,-73.613885,0,5S,1
+5S,10272,Station Jean-Talon,45.539097,-73.613885,1,,1
+05-01,10272,Station Jean-Talon - Édicule Sud,45.538700,-73.613910,2,5S,1
+05-02,10272,Station Jean-Talon - Édicule Plaza St-Hubert,45.540261,-73.613168,2,5S,2
+05-03,10272,Station Jean-Talon - Édicule Tour Jean-Talon,45.539382,-73.613439,2,5S,2
+05-04,10272,Station Jean-Talon - Édicule Nord,45.538678,-73.614316,2,5S,2
+50,10234,Station Côte-Sainte-Catherine,45.492356,-73.633100,0,50S,2
+50S,10234,Station Côte-Sainte-Catherine,45.492356,-73.633100,1,,2
+50-01,10234,Station Côte Sainte-Catherine,45.492385,-73.632837,2,50S,2
+51,10232,Station Plamondon,45.494644,-73.638260,0,51S,2
+51S,10232,Station Plamondon,45.494644,-73.638260,1,,2
+51-01,10232,Station Plamondon,45.495412,-73.640883,2,51S,2
+51-02,10232,Station Plamondon - Édicule Van Horne,45.494344,-73.637885,2,51S,2
+52,10230,Station Namur,45.494643,-73.652828,0,52S,2
+52S,10230,Station Namur,45.494643,-73.652828,1,,2
+52-01,10230,Station Namur,45.494970,-73.653108,2,52S,2
+53,10228,Station De la Savane,45.500051,-73.661538,0,53S,2
+53S,10228,Station De la Savane,45.500051,-73.661538,1,,2
+53-01,10228,Station De la Savane,45.500340,-73.661793,2,53S,2
+54,10224,Station Du Collège,45.509258,-73.674796,0,54S,2
+54S,10224,Station Du Collège,45.509258,-73.674796,1,,2
+54-01,10224,Station Du Collège - Édicule Cartier,45.508851,-73.672546,2,54S,2
+54-02,10224,Station Du Collège,45.509446,-73.674781,2,54S,2
+55,10534,Station Côte-des-Neiges,45.496846,-73.623386,0,55S,2
+55S,10534,Station Côte-des-Neiges,45.496846,-73.623386,1,,2
+55-01,10534,Station Côte-des-Neiges - Édicule Ouest,45.496306,-73.622534,2,55S,2
+55-02,10534,Station Côte-des-Neiges - Édicule Est,45.496760,-73.622937,2,55S,2
+56,10536,Station Université-de-Montréal,45.503188,-73.617699,0,56S,2
+56S,10536,Station Université-de-Montréal,45.503188,-73.617699,1,,2
+56-01,10536,Station Université-de-Montréal - Édicule Louis-Colin,45.502757,-73.618298,2,56S,2
+56-02,10536,Station Université-de-Montréal - Édicule Édouard-Montpetit,45.503382,-73.617767,2,56S,2
+56-03,10536,Station Université-de-Montréal,45.503582,-73.617256,2,56S,2
+57,10538,Station Édouard-Montpetit,45.509920,-73.612858,0,57S,2
+57S,10538,Station Édouard-Montpetit,45.509920,-73.612858,1,,2
+57-01,10538,Station Edouard-Montpetit - Édicule Pavillon Marie-Victorin,45.510342,-73.612296,2,57S,2
+57-02,10538,Station Edouard-Montpetit - Édicule Vincent-D'Indy,45.510155,-73.612554,2,57S,2
+57-03,10538,Station Edouard-Montpetit - Édicule boul. Édouard-Montpetit,45.509640,-73.612785,2,57S,2
+58,10540,Station Outremont,45.520370,-73.614976,0,58S,2
+58S,10540,Station Outremont,45.520370,-73.614976,1,,2
+58-01,10540,Station Outremont,45.520103,-73.615099,2,58S,2
+59,10542,Station Acadie,45.523458,-73.623257,0,59S,2
+59S,10542,Station Acadie,45.523458,-73.623257,1,,2
+59-01,10542,Station Acadie - Édicule Beaumont,45.523679,-73.623194,2,59S,2
+59-02,10542,Station Acadie,45.523391,-73.623494,2,59S,2
+6,10270,Station Beaubien,45.535354,-73.604688,0,6S,2
+6S,10270,Station Beaubien,45.535354,-73.604688,1,,2
+06-01,10270,Station Beaubien,45.535584,-73.604507,2,6S,2
+60,10544,Station Parc,45.530177,-73.624559,0,60S,2
+60S,10544,Station Parc,45.530177,-73.624559,1,,2
+60-01,10544,Station Parc,45.530223,-73.623932,2,60S,2
+61,10546,Station De Castelnau,45.535437,-73.619873,0,61S,2
+61S,10546,Station De Castelnau,45.535437,-73.619873,1,,2
+61-01,10546,Station De Castelnau - Édicule St-Laurent Est,45.535610,-73.619912,2,61S,2
+61-02,10546,Station De Castelnau - Édicule St-Laurent Ouest,45.535217,-73.620000,2,61S,2
+62,10552,Station Fabre,45.546753,-73.608106,0,62S,2
+62S,10552,Station Fabre,45.546753,-73.608106,1,,2
+62-01,10552,Station Fabre - Édicule Papineau,45.547864,-73.607356,2,62S,2
+62-02,10552,Station Fabre,45.546469,-73.608221,2,62S,2
+63,10554,Station D'Iberville,45.553618,-73.601988,0,63S,2
+63S,10554,Station D'Iberville,45.553618,-73.601988,1,,2
+63-01,10554,Station D'Iberville - Édicule Iberville,45.553770,-73.602081,2,63S,2
+63-02,10554,Station D'Iberville - Édicule Louis-Hébert,45.552635,-73.602713,2,63S,2
+64,10556,Station Saint-Michel,45.559560,-73.600002,0,64S,2
+64S,10556,Station Saint-Michel,45.559560,-73.600002,1,,2
+64-01,10556,Station Saint-Michel - Édicule Est,45.559694,-73.599833,2,64S,2
+64-02,10556,Station Saint-Michel - Édicule Ouest,45.559284,-73.599876,2,64S,2
+65,10222,Station Côte-Vertu,45.514237,-73.682757,0,65S,1
+65S,10222,Station Côte-Vertu,45.514237,-73.682757,1,,1
+65-01,10222,Station Côte-Vertu - Édicule Mac Donald,45.513505,-73.682510,2,65S,2
+65-02,10222,Station Côte-Vertu - Édicule Sud,45.513853,-73.682969,2,65S,2
+65-03,10222,Station Côte-Vertu - Édicule Nord,45.514222,-73.683087,2,65S,1
+66,10282,Station Cartier,45.559997,-73.682310,0,66S,1
+66S,10282,Station Cartier,45.559997,-73.682310,1,,1
+66-01,10282,Station Cartier - Édicule Terminus Cartier,45.560398,-73.681899,2,66S,1
+66-02,10282,Station Cartier - Édicule boul. Cartier,45.561402,-73.681416,2,66S,2
+67,10286,Station De la Concorde,45.560698,-73.709389,0,67S,1
+67S,10286,Station De la Concorde,45.560698,-73.709389,1,,1
+67-01,10286,Station De la Concorde,45.560504,-73.709596,2,67S,1
+68,10288,Station Montmorency,45.558436,-73.722459,0,68S,1
+68S,10288,Station Montmorency,45.558436,-73.722459,1,,1
+68-01,10288,Station Montmorency,45.558387,-73.721622,2,68S,1
+7,10268,Station Rosemont,45.531733,-73.597780,0,7S,1
+7S,10268,Station Rosemont,45.531733,-73.597780,1,,1
+07-01,10268,Station Rosemont,45.531293,-73.597967,2,7S,1
+8,10266,Station Laurier,45.527399,-73.586907,0,8S,2
+8S,10266,Station Laurier,45.527399,-73.586907,1,,2
+08-01,10266,Station Laurier - Édicule St-Joseph/Gilford,45.527042,-73.586242,2,8S,2
+08-02,10266,Station Laurier - Édicule rue Laurier,45.527800,-73.588928,2,8S,2
+9,10264,Station Mont-Royal,45.524931,-73.581959,0,9S,2
+9S,10264,Station Mont-Royal,45.524931,-73.581959,1,,2
+09-01,10264,Station Mont-Royal,45.524556,-73.581766,2,9S,2
+100073,61561,Station Lionel-Groulx (Saint-Jacques / Atwater),45.483340,-73.579463,0,,1
+100076,61564,Station de l'Église,45.462797,-73.566297,0,,1
+100125,61611,Station Berri-UQAM (1621 rue Berri),45.515988,-73.562300,0,,1
+100129,61619,Station Préfontaine (Édicule Nord),45.541962,-73.554292,0,,1
+100139,61628,Station Amos,45.594772,-73.641459,0,,1
+100167,61651,Station LaSalle (Caisse / de Rushbrooke),45.470687,-73.566017,0,,1
+100169,61653,Station Rosemont,45.531182,-73.597503,0,,1
+100170,61654,Station Côte-Vertu,45.514206,-73.683564,0,,2
+100178,61662,Station Angrignon (des Trinitaires / Lamont),45.446593,-73.601897,0,,2
+100209,61692,Station Cadillac (Sherbrooke / De Cadillac),45.576995,-73.546430,0,,1
+100782,50105,Station Viau,45.560876,-73.547179,0,,1
+101733,50117,Station Jean-Drapeau,45.511667,-73.532256,0,,1
+103302,50301,Station Henri-Bourassa,45.553899,-73.669150,0,,1
+103324,50303,Station Henri-Bourassa,45.554262,-73.668563,0,,1
+103328,50304,Station Henri-Bourassa,45.554130,-73.667669,0,,1
+103341,50305,Station Henri-Bourassa,45.555102,-73.667558,0,,1
+103342,50306,Station Henri-Bourassa,45.555555,-73.668223,0,,1
+103345,50307,Station Henri-Bourassa,45.556117,-73.667485,0,,1
+103384,50313,Station Henri-Bourassa,45.556036,-73.667115,0,,1
+103711,50377,Station de la Savane (Décarie / de Sorel),45.500243,-73.661726,0,,1
+103803,50398,Station de la Savane (Décarie / Royalmount),45.498837,-73.660885,0,,1
+104013,50437,Station Sauvé (Édicule Nord),45.550862,-73.656363,0,,1
+104014,50438,Station Sauvé (Édicule Sud),45.550476,-73.656161,0,,1
+104017,50439,Station Sauvé (Édicule Nord),45.550577,-73.656445,0,,1
+104018,50440,Station Sauvé (Édicule Sud),45.550643,-73.655392,0,,1
+104361,50506,Station Namur (Décarie / Jean-Talon),45.494585,-73.652580,0,,1
+104362,50507,Station Namur (Jean-Talon / Décarie),45.494843,-73.652760,0,,1
+104363,50508,Station Namur (Décarie / Jean-Talon),45.494251,-73.653664,0,,1
+104366,50510,Station Namur (Décarie / Jean-Talon),45.495259,-73.653745,0,,1
+105602,50721,Station Plamondon (Barclay / Victoria),45.496188,-73.641440,0,,1
+105721,50736,Station Plamondon (Victoria / Plamondon),45.495654,-73.640352,0,,1
+105723,50737,Station Plamondon (Victoria / Plamondon),45.495671,-73.640721,0,,1
+105724,50738,Station Plamondon (Plamondon / Victoria),45.495518,-73.640577,0,,1
+105851,50756,Station Crémazie (Saint-Denis / Crémazie),45.545276,-73.638251,0,,1
+105858,50758,Station Crémazie (St-Denis Sud / Crémazie),45.545085,-73.638169,0,,1
+105884,50760,Station Crémazie (St-Denis Nord / Crémazie),45.546234,-73.639266,0,,1
+105912,50767,Station Crémazie Nord (Crémazie / Berri),45.545705,-73.638939,0,,1
+105913,50768,Station Crémazie Nord (Berri / Crémazie),45.545445,-73.639253,0,,1
+105914,50769,Station Crémazie Sud (Crémazie / Berri),45.545619,-73.638165,0,,1
+105915,50770,Station Crémazie Sud (Crémazie / Berri),45.546138,-73.637714,0,,1
+106020,50792,Station Crémazie,45.546503,-73.638938,0,,1
+106026,50793,Station Crémazie Nord (Lajeunesse / Crémazie),45.546668,-73.638544,0,,1
+106027,50794,Station Crémazie Nord (Crémazie / Lajeunesse),45.545920,-73.638751,0,,1
+106181,50817,Station Plamondon (Victoria / Van Horne),45.494347,-73.637428,0,,1
+106183,50818,Station Plamondon (Victoria / Van Horne),45.494388,-73.637840,0,,1
+106184,50819,Station Plamondon (Van Horne / Victoria),45.494232,-73.637641,0,,1
+106187,50820,Station Plamondon (Van Horne / Victoria),45.494105,-73.637966,0,,1
+106741,50923,Station Côte-Sainte-Catherine,45.492315,-73.632875,0,,1
+106742,50924,Station Côte-Sainte-Catherine,45.492501,-73.633118,0,,1
+106743,50925,Station Côte-Sainte-Catherine,45.492372,-73.633330,0,,2
+106745,50926,Station Côte-Sainte-Catherine,45.492529,-73.632838,0,,1
+107051,50979,Station Jarry (Saint-Denis / Jarry),45.542600,-73.628947,0,,1
+107053,50981,Station Jarry (Saint-Denis / Jarry),45.542567,-73.629414,0,,1
+107092,50989,Station Jarry (Jarry / Berri),45.543307,-73.628888,0,,1
+107095,50990,Station Jarry (Jarry / Berri),45.543613,-73.628478,0,,1
+107462,51050,Station Snowdon (Queen-Mary / de Westbury),45.485521,-73.627707,0,,1
+107464,51051,Station Snowdon (Queen-Mary / Circle),45.485099,-73.627802,0,,1
+107532,51063,Station Acadie (Jean-Talon / de l'Acadie),45.524371,-73.625912,0,,1
+107534,51064,Station Acadie (Jean-Talon / de l'Acadie),45.524019,-73.625854,0,,1
+107536,51065,Station Acadie (Jean-Talon / de l'Acadie),45.524420,-73.626290,0,,1
+107701,51093,Station Parc (Hutchison / Ogilvy),45.530174,-73.624262,0,,1
+107704,51094,Station Parc (Ogilvy / Hutchison),45.530065,-73.624583,0,,1
+107705,51095,Station Parc (Ogilvy / Hutchison),45.530549,-73.624282,0,,1
+107709,51096,Station Parc (Hutchison / Ogilvy),45.530024,-73.623756,0,,1
+107954,51140,Station Parc (Jean-Talon / Hutchison),45.529510,-73.622634,0,,1
+108041,51155,Station Côte-des-Neiges (Côte-des-Neiges/Lacombe),45.496833,-73.623216,0,,1
+108044,51157,Station Côte-des-Neiges,45.496623,-73.623502,0,,1
+108233,51187,Station Côte-des-Neiges,45.496098,-73.621950,0,,1
+108326,51205,Station De Castelnau,45.535682,-73.620198,0,,1
+108328,51206,Station De Castelnau,45.535186,-73.619628,0,,1
+108542,51241,Station Villa-Maria,45.479704,-73.619643,0,,1
+108547,51243,Station Villa-Maria (Décarie / de Monkland),45.479449,-73.619946,0,,1
+109042,51311,Station Jean-Talon Nord / Saint-Denis,45.538484,-73.614442,0,,1
+109043,51312,Station Jean-Talon Nord / Saint-Denis,45.538295,-73.614667,0,,1
+109114,51322,Station Jean-Talon Sud / De Saint-Vallier,45.538922,-73.613838,0,,1
+109158,51331,Station Jean-Talon (Jean-Talon/De Chateaubriand),45.539605,-73.613106,0,,1
+109171,51335,Station Jean-Talon Est / Saint-Hubert,45.540641,-73.612946,0,,1
+109172,51336,Station Jean-Talon Est / Saint-Hubert,45.540844,-73.613176,0,,1
+109174,51337,Station Jean-Talon Est / Saint-Hubert,45.540498,-73.613116,0,,1
+109533,51387,Station Édouard-Montpetit,45.510335,-73.612681,0,,1
+109534,51388,Station Édouard-Montpetit,45.509557,-73.613068,0,,1
+109812,51435,Station Fabre (Jean-Talon / Fabre),45.546865,-73.608152,0,,1
+109814,51436,Station Fabre (Jean-Talon / Fabre),45.546606,-73.608136,0,,1
+109951,51451,Station Fabre (Papineau / Jean-Talon),45.547932,-73.606836,0,,1
+109953,51452,Station Fabre (Papineau / Jean-Talon),45.547952,-73.607288,0,,1
+109954,51453,Station Fabre (Jean-Talon / Papineau),45.547776,-73.607085,0,,1
+109957,51454,Station Fabre (Jean-Talon / Papineau),45.547734,-73.607367,0,,1
+110261,51508,Station Beaubien (Saint-Denis / Beaubien),45.534008,-73.604813,0,,1
+110342,51522,Station Beaubien,45.535053,-73.604154,0,,1
+110423,51533,Station Beaubien (de Chateaubriand / Beaubien),45.535460,-73.603955,0,,1
+110524,51554,Station D'Iberville (Jean-Talon / Louis-Hébert),45.552890,-73.602551,0,,1
+110552,51558,Station Vendôme (De Maisonneuve / Marlowe),45.473987,-73.604511,0,,1
+110602,51564,Station D'Iberville (Jean-Talon / D'Iberville),45.553754,-73.602035,0,,1
+110603,51565,Station D'Iberville (D'Iberville / Jean-Talon),45.553648,-73.602232,0,,1
+110604,51566,Station D'Iberville (Jean-Talon / D'Iberville),45.553481,-73.602022,0,,1
+110606,51567,Station D'Iberville (D'Iberville / Jean-Talon),45.553850,-73.602397,0,,1
+110913,51605,Station Saint-Michel (Saint-Michel / Shaughnessy),45.559290,-73.599717,0,,1
+110916,51606,Station Saint-Michel (Saint-Michel / Everett),45.559939,-73.600522,0,,1
+111131,51646,Station Rosemont (Saint-Denis / Rosemont),45.531018,-73.598215,0,,1
+111132,51647,Station Rosemont (Rosemont/St-Denis),45.531217,-73.598465,0,,1
+111135,51648,Station Rosemont (Rosemont / De Saint-Vallier),45.531597,-73.597819,0,,1
+111138,51649,Station Rosemont (Saint-Denis / Rosemont),45.530575,-73.597706,0,,1
+111210,51660,Station Rosemont,45.531062,-73.597207,0,,1
+111214,51661,Station Rosemont,45.531003,-73.597673,0,,1
+111303,51672,Station Rosemont (De Chateaubriand / Rosemont),45.532556,-73.597533,0,,1
+112541,51862,Station Laurier (Saint-Denis / Laurier),45.526968,-73.589289,0,,1
+112994,51948,Station Laurier (Saint-Joseph / Berri),45.527166,-73.586903,0,,1
+113086,51965,Station Laurier Sud (Rivard / Gilford),45.526517,-73.586813,0,,1
+113143,51973,Station Laurier Sud (Berri / Gilford),45.527067,-73.586255,0,,1
+113147,51974,Station Laurier Sud (Gilford / Berri),45.526764,-73.586331,0,,1
+113231,51986,Station Place-Saint-Henri / Saint-Ferdinand,45.477079,-73.586773,0,,1
+113234,51987,Station Place-Saint-Henri / Saint-Ferdinand,45.477090,-73.587162,0,,1
+113238,51989,Station Place-Saint-Henri,45.477273,-73.586541,0,,1
+113751,52054,Station Mont-Royal (Saint-Denis / du Mont-Royal),45.523962,-73.582718,0,,1
+113753,52056,Station Mont-Royal (Saint-Denis / du Mont-Royal),45.523941,-73.583107,0,,1
+113840,52069,Station Atwater (Sainte-Catherine / Atwater),45.489738,-73.583882,0,,1
+113843,52070,Station Atwater (Lambert-Closse / Ste-Catherine),45.490351,-73.583227,0,,1
+113954,52083,Station Mont-Royal (du Mont-Royal / Berri),45.524654,-73.582202,0,,1
+113955,52084,Station Mont-Royal (du Mont-Royal / Berri),45.524798,-73.582068,0,,1
+114302,52146,Station Guy-Concordia (Maisonneuve / St-Mathieu),45.494696,-73.580486,0,,1
+114303,52147,Station Guy-Concordia (St-Mathieu/De Maisonneuve),45.494608,-73.580727,0,,1
+114307,52148,Station Guy-Concordia (De Maisonneuve/St-Mathieu),45.494350,-73.580889,0,,1
+114561,52194,Station Guy-Concordia (Guy / De Maisonneuve),45.495301,-73.578222,0,,1
+114566,52195,Station Guy-Concordia (Guy / De Maisonneuve),45.495939,-73.579665,0,,1
+114611,52201,Station Guy-Concordia (Guy / De Maisonneuve),45.495688,-73.579078,0,,1
+114612,52202,Station Guy-Concordia (De Maisonneuve / Guy),45.495872,-73.579363,0,,1
+115541,52336,Station Peel (Peel / De Maisonneuve),45.500842,-73.574501,0,,1
+115542,52337,Station Peel (De Maisonneuve / Peel),45.500996,-73.574640,0,,1
+115543,52338,Station Peel (Peel / De Maisonneuve),45.500911,-73.574892,0,,1
+116182,52433,Station McGill (De Maisonneuve / Robert-Bourassa),45.504218,-73.571523,0,,1
+116283,52451,Station McGill (Union / De Maisonneuve),45.504696,-73.571310,0,,1
+116611,52506,Station Sherbrooke (Édicule Est),45.518815,-73.568298,0,,1
+116616,52508,Station Sherbrooke (Édicule Est ),45.518966,-73.568641,0,,1
+116642,52516,Station Place-des-Arts / De Bleury,45.507629,-73.569486,0,,1
+116644,52517,Station Place-des-Arts / De Bleury,45.507283,-73.569604,0,,1
+116742,52533,Station Place-des-Arts / De Bleury,45.507336,-73.568867,0,,1
+116743,52534,Station Place-des-Arts / De Bleury,45.507205,-73.569071,0,,1
+116792,52540,Station Place-des-Arts,45.508554,-73.568667,0,,1
+116824,52547,Station Charlevoix (Centre / Charlevoix),45.478343,-73.569438,0,,1
+116856,52550,Station Bonaventure (Peel / De La Gauchetière),45.498069,-73.568975,0,,1
+116882,52553,Station Place-des-Arts / Jeanne-Mance,45.508315,-73.568300,0,,1
+116903,52556,Station Bonaventure (Peel / De La Gauchetière),45.497755,-73.568826,0,,1
+116923,52559,Station Sherbrooke (Édicule Ouest),45.518304,-73.568120,0,,1
+116927,52560,Station Sherbrooke (Édicule Ouest),45.518026,-73.568283,0,,1
+117043,52581,Station Place-des-Arts / Saint-Urbain,45.509944,-73.567675,0,,1
+117451,52649,Station Saint-Laurent / De Maisonneuve,45.510564,-73.565144,0,,1
+117452,52650,Station Saint-Laurent (De Maisonneuve / Clark),45.510261,-73.565706,0,,1
+117789,52705,Station Square-Victoria-OACI,45.501475,-73.563582,0,,1
+118102,52761,Station Berri-UQAM (De Maisonneuve / Saint-Denis),45.514514,-73.561916,0,,1
+118321,52791,Station Berri-UQAM (Berri / De Maisonneuve),45.515307,-73.560872,0,,1
+118322,52792,Station Berri-UQAM (De Maisonneuve / Berri),45.515465,-73.561036,0,,1
+118323,52793,Station Berri-UQAM (Berri / de Maisonneuve),45.515320,-73.561295,0,,2
+118482,52814,Station Berri-UQAM (De Maisonneuve / St-Hubert),45.516232,-73.560336,0,,1
+118673,52844,Station Berri-UQAM (Berri / Ste-Catherine),45.514657,-73.559885,0,,1
+118676,52846,Station Berri-UQAM (Berri / Place Émilie-Gamelin),45.514882,-73.559970,0,,1
+118708,52851,Station Place-d'Armes (Saint-Urbain / Viger),45.506144,-73.559294,0,,1
+119564,52963,Station Beaudry (Ste-Catherine / de la Visitation),45.519156,-73.555444,0,,1
+119582,52966,Station Préfontaine (Édicule Nord),45.541615,-73.554750,0,,1
+119585,52967,Station Préfontaine (Édicule Sud),45.541719,-73.554435,0,,1
+119882,53007,Station Frontenac (Ontario / Frontenac),45.533139,-73.552639,0,,1
+119921,53009,Station Papineau (Cartier / Sainte-Catherine),45.523804,-73.552741,0,,1
+120001,53014,Station Frontenac (Frontenac / Ontario),45.532848,-73.552143,0,,1
+120024,53015,Station Frontenac (Ontario / du Havre),45.533348,-73.552246,0,,1
+120028,53016,Station Frontenac (du Havre / Ontario),45.533157,-73.551485,0,,1
+120032,53017,Station Pie-IX (Pie-IX / Pierre-de-Coubertin),45.553866,-73.551741,0,,1
+120033,53018,Station Pie-IX (Pie-IX / Pierre-de-Coubertin),45.553626,-73.551944,0,,1
+120036,53019,Station Pie-IX (Pie-IX / Pierre-de-Coubertin),45.554088,-73.552579,0,,1
+120037,53020,Station Pie-IX (Pierre-de-Coubertin / Pie-IX),45.553326,-73.551964,0,,1
+120141,53035,Station Joliette / (Joliette / Hochelaga),45.546799,-73.551200,0,,1
+120142,53036,Station Joliette (Hochelaga / Joliette),45.546951,-73.551472,0,,1
+120145,53037,Station Joliette (Hochelaga / Joliette),45.547183,-73.551088,0,,1
+120186,53047,Station Papineau (Cartier / Sainte-Catherine),45.523512,-73.552124,0,,1
+120263,53051,Station Papineau (Dorion / Sainte-Catherine),45.523703,-73.551656,0,,1
+120609,53083,Station Assomption (de l'Assomption / Chauveau),45.569187,-73.546751,0,,1
+120731,53098,Station Cadillac (De Cadillac / Sherbrooke),45.576789,-73.546298,0,,1
+120732,53099,Station Cadillac (Sherbrooke / De Cadillac),45.577020,-73.546755,0,,1
+120733,53100,Station Cadillac (De Cadillac / Sherbrooke),45.576892,-73.546971,0,,1
+120734,53101,Station Cadillac (Sherbrooke / De Cadillac),45.576715,-73.546628,0,,1
+120735,53102,Station Cadillac (Sherbrooke / De Cadillac),45.577317,-73.546226,0,,1
+120737,53103,Station Cadillac (Sherbrooke / De Cadillac),45.576647,-73.547004,0,,1
+121102,53149,Station Langelier (Sherbrooke / Langelier),45.582927,-73.543210,0,,1
+121104,53150,Station Langelier (Sherbrooke / Langelier),45.582559,-73.543102,0,,1
+121111,53151,Station Langelier (Langelier / Sherbrooke),45.582722,-73.542560,0,,1
+121113,53152,Station Langelier (Langelier / Sherbrooke),45.582747,-73.543536,0,,1
+121114,53153,Station Langelier (Langelier / Sherbrooke),45.582544,-73.542723,0,,1
+121320,53184,Station Radisson,45.589829,-73.540009,0,,1
+121432,53196,Station Radisson (Sherbrooke / Des Groseilliers),45.589058,-73.539604,0,,1
+121851,53251,Station Honoré-Beaugrand,45.596449,-73.534699,0,,1
+121852,53252,Station Honoré-Beaugrand,45.596793,-73.535020,0,,1
+121855,53253,Station Honoré-Beaugrand,45.596790,-73.534657,0,,1
+121962,53275,Station Honoré-Beaugrand / Terminus Sud,45.596528,-73.534267,0,,1
+121963,53276,Station Honoré-Beaugrand,45.596195,-73.534228,0,,1
+124654,53674,Station Champ-de-Mars (St-Antoine / Gosford),45.509293,-73.555400,0,,1
+125193,53699,Station Charlevoix (Charlevoix / de Châteauguay),45.478179,-73.568974,0,,1
+125569,53724,Station Honoré-Beaugrand / Terminus Nord,45.597067,-73.536244,0,,1
+125579,53725,Station Honoré-Beaugrand / Terminus Nord,45.597021,-73.536086,0,,1
+126092,53753,Station Viau,45.561222,-73.546958,0,,1
+126203,53754,Station Honoré-Beaugrand / Terminus Nord,45.596932,-73.535748,0,,1
+126211,53755,Station Honoré-Beaugrand / Terminus Nord,45.597038,-73.536630,0,,1
+126214,53756,Station Honoré-Beaugrand / Terminus Nord,45.597140,-73.536481,0,,1
+126244,53757,Station Henri-Bourassa,45.556456,-73.666898,0,,1
+126460,53763,Station Vendôme,45.474146,-73.603524,0,,1
+126469,53764,Station Vendôme,45.473661,-73.603873,0,,1
+126806,53786,Station Atwater (Atwater / Tupper),45.489027,-73.583939,0,,1
+126945,53793,Station Henri-Bourassa,45.555678,-73.667348,0,,1
+126970,53796,Station Vendôme,45.473853,-73.603509,0,,1
+126979,53797,Station Vendôme,45.473765,-73.604298,0,,1
+126991,53799,Station Villa-Maria,45.479498,-73.619580,0,,1
+127191,53817,Station Place-Saint-Henri,45.477069,-73.586296,0,,1
+127410,53827,Station Henri-Bourassa,45.556197,-73.667004,0,,1
+127924,53851,Station Beaubien,45.535535,-73.604655,0,,1
+127972,53856,Station Monk (Allard / Monk),45.451246,-73.593100,0,,1
+127974,53857,Station Monk (Allard / Monk),45.451075,-73.593427,0,,1
+127976,53858,Station Monk (Monk / Allard),45.451428,-73.593284,0,,1
+127978,53859,Station Monk (Monk / Allard),45.450824,-73.593217,0,,1
+128163,53876,Station Honoré-Beaugrand / Terminus Sud,45.596550,-73.534617,0,,1
+128180,53877,Station Université-de-Montréal,45.504028,-73.618055,0,,1
+128209,53878,Station Université-de-Montréal,45.504293,-73.618029,0,,1
+129274,53935,Station Vendôme,45.474210,-73.604012,0,,1
+129278,53936,Station Vendôme,45.474018,-73.604232,0,,1
+129663,53952,Station Jolicoeur,45.456958,-73.581489,0,,1
+129675,53953,Station Jolicoeur (Drake / Holy Cross),45.456268,-73.582128,0,,1
+129922,53970,Station Papineau (De Maisonneuve / Cartier),45.524065,-73.553120,0,,1
+130321,53986,Station Charlevoix,45.477957,-73.569261,0,,1
+130612,54005,Station Mont-Royal,45.524295,-73.581554,0,,1
+130672,54008,Station Honoré-Beaugrand / Terminus Nord,45.596945,-73.536323,0,,1
+130769,54014,Station Beaubien,45.535092,-73.604959,0,,1
+130831,54018,Station Charlevoix,45.478069,-73.569458,0,,1
+131103,54037,Station Sauvé (Édicule Sud),45.551003,-73.656849,0,,1
+131141,54038,Station Frontenac (Frontenac / Ontario),45.532958,-73.552399,0,,1
+131151,54039,Station Frontenac (Frontenac / Ontario),45.532730,-73.551866,0,,1
+131168,54040,Station Frontenac (du Havre / Ontario),45.533275,-73.551792,0,,1
+131622,54069,Station Laurier Sud (Rivard / Gilford),45.526498,-73.586573,0,,1
+131692,54074,Station Snowdon (Queen-Mary / de Westbury),45.485359,-73.627873,0,,1
+131774,54080,Station Radisson (Sherbrooke / du Trianon),45.589644,-73.538933,0,,1
+131885,54088,Station Sauvé (Édicule Sud),45.550251,-73.656433,0,,1
+131972,54095,Station Jean-Talon Nord (Jean-Talon / Berri),45.539059,-73.614057,0,,1
+132044,54101,Station Jolicoeur (Drake / Jolicoeur),45.456908,-73.582187,0,,1
+132060,54104,Station Vendôme,45.473772,-73.603620,0,,1
+132070,54105,Station Angrignon,45.446253,-73.603021,0,,1
+132080,54106,Station Angrignon,45.446694,-73.603261,0,,1
+132090,54107,Station Angrignon,45.446391,-73.604021,0,,1
+132100,54108,Station Angrignon,45.446703,-73.604605,0,,1
+132110,54109,Station Angrignon,45.446607,-73.604288,0,,1
+132120,54110,Station Angrignon,45.446165,-73.604170,0,,1
+132130,54111,Station Angrignon,45.446509,-73.604369,0,,1
+132140,54112,Station Angrignon,45.445994,-73.604821,0,,2
+132184,54114,Station Henri-Bourassa,45.555499,-73.667421,0,,1
+132192,54115,Station Honoré-Beaugrand,45.597004,-73.534894,0,,1
+132211,59034,Station Radisson,45.589666,-73.540216,0,,1
+132253,54117,Station Papineau (Dorion / Sainte-Catherine),45.524023,-73.552346,0,,1
+132276,54119,Station Honoré-Beaugrand / Terminus Nord,45.596854,-73.536022,0,,1
+132369,54127,Station Henri-Bourassa,45.556117,-73.667282,0,,1
+132774,54148,Station Atwater (Ste-Catherine / Lambert-Closse),45.489847,-73.583756,0,,1
+133091,54167,Station Laurier Sud (Rivard / Saint-Joseph),45.526693,-73.587202,0,,1
+133482,54170,Station Parc (Jean-Talon / du Parc),45.530333,-73.622348,0,,1
+133572,54172,Station Jean-Talon Nord / Lajeunesse,45.539700,-73.613765,0,,1
+133891,54174,Station Langelier (Langelier / Sherbrooke),45.582779,-73.542870,0,,1
+135281,54179,Station Rosemont,45.531255,-73.597158,0,,1
+135301,54181,Station Lionel-Groulx (Atwater / Lionel-Groulx),45.482998,-73.578888,0,,1
+135346,54184,Station Saint-Michel (Édicule Est),45.559844,-73.599724,0,,1
+135423,54188,Station Papineau (Dorion / Sainte-Catherine),45.523866,-73.552008,0,,1
+135665,54195,Station Namur (Jean-Talon / Décarie),45.495029,-73.652192,0,,1
+135709,54200,Station Viau,45.561475,-73.546797,0,,1
+135762,54205,Station Crémazie Nord (Crémazie / Lajeunesse),45.546207,-73.638494,0,,1
+135764,54206,Station Crémazie Sud (Crémazie / Lajeunesse),45.545719,-73.638074,0,,1
+135828,54212,Station Jean-Talon (Jean-Talon/De Chateaubriand),45.539443,-73.612742,0,,1
+136208,54237,Station Honoré-Beaugrand / Terminus Sud,45.596907,-73.534149,0,,1
+136455,54257,Station Honoré-Beaugrand,45.596943,-73.534563,0,,1
+136546,54262,Station Namur (Décarie / Jean-Talon),45.494913,-73.653153,0,,1
+136678,54269,Station Sauvé (Édicule Sud),45.550545,-73.655052,0,,1
+136911,54294,Station Saint-Michel (St-Michel / Shaughnessy),45.559709,-73.600006,0,,1
+137059,54306,Station Assomption (de l'Assomption / Chauveau),45.569299,-73.547088,0,,1
+137529,54335,Station Jean-Drapeau,45.512182,-73.532041,0,,1
+138105,54356,Station Bonaventure (Gauchetière / Mansfield),45.499251,-73.566347,0,,1
+139171,59312,Station Radisson,45.589609,-73.540007,0,,1
+139459,60236,Station Radisson (Sherbrooke / Des Groseilliers),45.589276,-73.539476,0,,1
+139522,60247,Station Villa-Maria,45.479771,-73.620050,0,,1
+139558,60250,Station Crémazie Sud (Berri / Crémazie),45.545658,-73.637573,0,,1
+140128,60366,Station Laurier (Berri / Saint-Joseph),45.527233,-73.586590,0,,1
+140134,60367,Station Henri-Bourassa,45.555843,-73.667217,0,,1
+140335,60440,Station Langelier (Sherbrooke / Langelier),45.583093,-73.542790,0,,1
+141891,60757,Station Saint-Michel (Édicule Est),45.559413,-73.599376,0,,2
+142038,60771,Station Saint-Michel (Édicule Est),45.559717,-73.599689,0,,1
+142122,60782,Station Viau,45.560602,-73.547361,0,,2
+142352,60844,Station Joliette (Hochelaga / Joliette),45.546550,-73.551715,0,,1
+143212,60999,Station Guy-Concordia (Maisonneuve / St-Mathieu),45.494947,-73.580236,0,,1
+143372,61042,Station Place-des-Arts / Jeanne-Mance,45.508806,-73.568444,0,,1
+143682,61113,Station Saint-Michel (Édicule Est),45.560169,-73.599839,0,,1
+143809,61153,Station Berri-UQAM,45.514987,-73.560191,0,,1
+144022,53038,Station Joliette (Hochelaga / Aylwin),45.546364,-73.551827,0,,1
+144386,61230,Station Radisson (Des Groseilliers / Sherbrooke),45.589100,-73.540077,0,,1
+144463,61263,Station Angrignon,45.446699,-73.604433,0,,1
+144795,61328,Station Lionel-Groulx,45.482894,-73.580931,0,,1
+144805,61329,Station Lionel-Groulx / Saint-Jacques,45.482786,-73.581111,0,,1
+144814,61330,Station Lionel-Groulx / Saint-Jacques,45.483130,-73.580546,0,,1
+144825,61331,Station Lionel-Groulx / Saint-Jacques,45.483291,-73.580278,0,,1
+144834,61332,Station de métro Lionel-Groulx,45.483442,-73.580040,0,,1
+144848,61333,Station Lionel-Groulx,45.483112,-73.579325,0,,1
+144853,61334,Station Lionel-Groulx,45.482527,-73.578964,0,,1
+144863,61335,Station Lionel-Groulx,45.482757,-73.579109,0,,1
+144876,61336,Station Lionel-Groulx,45.482262,-73.580781,0,,1
+144880,61337,Station Lionel-Groulx,45.482421,-73.580950,0,,1
+144893,61338,Station Lionel-Groulx,45.482564,-73.581152,0,,1
+144902,61339,Station Lionel-Groulx,45.481927,-73.580263,0,,1
+1903984,55639,Station Côte-Vertu (Côte-Vertu / Décarie),45.514015,-73.682832,0,,1
+1903986,55640,Station Côte-Vertu (Décarie / Côte-Vertu),45.514854,-73.683464,0,,1
+1903987,55641,Station Côte-Vertu (Côte-Vertu / Décarie),45.513931,-73.683352,0,,1
+1904391,55703,Station du Collège (Décarie / du Collège),45.509372,-73.674785,0,,1
+1904392,55704,Station du Collège (du Collège / Décarie),45.509577,-73.674952,0,,1
+1904394,55705,Station du Collège (du Collège / Décarie),45.509272,-73.675126,0,,1
+1904398,55706,Station du Collège (Décarie / du Collège),45.509094,-73.674706,0,,1
+1904481,55717,Station du Collège (Décarie / Cartier),45.508254,-73.672895,0,,1
+1904503,55723,Station du Collège (Décarie / Saint-Louis),45.507968,-73.672751,0,,1
+1905613,55829,Station Côte-Vertu,45.514297,-73.684297,0,,1
+1905830,55839,Station du Collège (Cartier / Ouimet),45.508660,-73.672863,0,,1
+1905834,55840,Station du Collège (Cartier / Ouimet),45.508760,-73.672745,0,,1
+1905838,55841,Station du Collège (Ouimet / Cartier),45.508870,-73.672314,0,,1
+1906943,55890,Station Côte-Vertu,45.514565,-73.683454,0,,1
+1907084,55901,Station Côte-Vertu (Côte-Vertu / Décarie),45.513716,-73.683221,0,,1
+1907573,55921,Station du Collège (Ouimet / Saint-Louis),45.508791,-73.672058,0,,1
+1907577,55922,Station du Collège (Saint-Louis / Ouimet),45.508207,-73.672348,0,,1
+1908267,55945,Station Côte-Vertu (Côte-Vertu / Décarie),45.513718,-73.683636,0,,1
+1909211,60257,Station du Collège (Décarie / Cartier),45.508311,-73.673005,0,,1
+1909403,60288,Station Côte-Vertu,45.513864,-73.684010,0,,1
+1909413,60289,Station Côte-Vertu,45.514417,-73.683295,0,,1
+1909423,60290,Station Côte-Vertu,45.514622,-73.683771,0,,1
+1909443,60292,Station Côte-Vertu,45.513971,-73.683504,0,,1
+1909453,60293,Station Côte-Vertu,45.514356,-73.683629,0,,1
+1909466,60295,Station Côte-Vertu,45.514077,-73.684089,0,,1
+1909476,60296,Station Côte-Vertu,45.514212,-73.684175,0,,1
+1909586,60383,Station Côte-Vertu,45.513923,-73.683963,0,,1
+1909951,60807,Station Côte-Vertu (Gohier / Côte-Vertu),45.513488,-73.683369,0,,1
+1910090,60848,Station du Collège (du Collège / Décarie),45.509059,-73.675393,0,,1
+1910261,61004,Station Côte-Vertu,45.513305,-73.683070,0,,1
+1910403,61233,Station Côte-Vertu (Gohier / Édouard-Laurin),45.513263,-73.683252,0,,2
+1910578,61377,Station Côte-Vertu (Gohier / Édouard-Laurin),45.513092,-73.682991,0,,1
+2001797,60302,Station Acadie (Beaumont / de l'Acadie),45.523080,-73.623687,0,,1
+2100622,56220,Station Outremont (Van Horne / Wiseman),45.520491,-73.614992,0,,1
+2100624,56221,Station Outremont (Van Horne / Wiseman),45.520224,-73.615025,0,,1
+2200451,56297,Station Atwater (Atwater / Sainte-Catherine),45.489262,-73.584235,0,,1
+2200455,56301,Station Atwater,45.489587,-73.584061,0,,1
+2200522,56306,Station Atwater (Tupper / Atwater),45.488927,-73.583648,0,,1
+2200629,56308,Station Atwater (Tupper / Atwater),45.489347,-73.583131,0,,1
+2200732,60238,Station Atwater (Tupper / Atwater),45.489111,-73.583422,0,,1
+2701043,56630,Station de l'Église (Galt / Wellington),45.461867,-73.567468,0,,1
+2701044,56631,Station de l'Église (Wellington / Galt),45.461777,-73.567032,0,,1
+2701047,56632,Station de l'Église (Wellington / Galt),45.461538,-73.567193,0,,1
+2701061,56634,Station de l'Église,45.462823,-73.566794,0,,1
+2701784,56685,Station Verdun (de Verdun / Willibrord),45.459170,-73.571596,0,,1
+2701787,56686,Station Verdun (de Verdun / Willibrord),45.459125,-73.571812,0,,1
+2701829,56687,Station LaSalle,45.470612,-73.567647,0,,1
+2701839,56688,Station LaSalle,45.470738,-73.567195,0,,1
+2701901,56690,Station de l'Église (de l'Église / Ross),45.462779,-73.565789,0,,1
+2702119,56697,Station LaSalle,45.470696,-73.566509,0,,1
+2702339,56707,Station LaSalle,45.470713,-73.566641,0,,1
+2702869,61207,Station LaSalle,45.470722,-73.566888,0,,1
