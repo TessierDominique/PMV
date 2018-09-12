@@ -1,0 +1,119 @@
+-- Trouver les stations avec le plus d'arrivées
+CREATE TABLE word_counts AS
+SELECT word, count(1) AS count FROM
+(SELECT s.station_name AS word FROM bixi_stations s 
+join bixi_od od on s.station_id = od.end_station_code) w
+GROUP BY word
+ORDER BY count desc;
+
+-- Les stations avec le plus de départs
+SELECT word, count(1) AS count FROM
+(SELECT s.station_name AS word FROM bixi_stations s 
+join bixi_od od on s.station_id = od.start_station_code) w
+GROUP BY word
+ORDER BY count desc;
+
+-- Trouver la station intermédiaire entre les stations « Métro Langelier (Sherbrooke / Langelier » (7016) et « Island / Centre »( 6350) 
+-- pour la plus petite durée de déplacement.
+select s1.start_station_code, s1.end_station_code, s1.duration_sec, 
+s2.start_station_code, s2.end_station_code, s2.duration_sec, 
+(s1.duration_sec + s2.duration_sec) as duration
+from bixi_startendduration s1
+join bixi_startendduration s2 on s1.end_station_code = s2.start_station_code
+where 
+s1.start_station_code = 7016 and
+s2.end_station_code = 6350 
+order by (s1.duration_sec + s2.duration_sec)
+Limit 1;
+
+-- creer une table qui contient la durée moyenne des déplacements entre deux stations.
+create table bixi_StartEndDuration (start_station_code int, end_station_code int, duration_sec int);
+
+insert into bixi_StartEndDuration
+select start_station_code, end_station_code, round(avg(duration_sec)) from bixi_od
+group by start_station_code, end_station_code;
+
+-- Total du dénivellé entre les stations pour tous les déplacements (en avril 785 308 m pour 196328 déplacements)
+select count(od.start_date) as cnt, sum(b1.altitude - b2.altitude) as total 
+from bixi_od od 
+left join bixi_stations b1 on od.start_station_code = b1.station_id 
+left join bixi_stations b2 on od.end_station_code = b2.station_id;
+
+-- Nombre de déplacements vers une station plus basse ou plus haute
+select count(od.start_date) as cnt
+	from bixi_od od 
+	left join bixi_stations b1 on od.start_station_code = b1.station_id 
+	left join bixi_stations b2 on od.end_station_code = b2.station_id
+	where (b1.altitude - b2.altitude) < 0 ;  -- vers une station plus haute
+-- where (b1.altitude - b2.altitude) > 0 ;  -- vers une station plus basse
+
+-- moyenne du dénivelé entre les stations pour tous les déplacements (par mois d’utilisation)
+	select month, count(od.start_date) as cnt, avg(b1.altitude - b2.altitude) as avg 
+	from bixi_od od 
+	left join bixi_stations b1 on od.start_station_code = b1.station_id 
+	left join bixi_stations b2 on od.end_station_code = b2.station_id
+	group by month;
+
+
+-- Trouver les stations Bixi a procimité des stations de metro de la STM
+-- Insérer le résulat dans une table
+
+CREATE TABLE bixi_stm_Distance100 AS
+select distinct 
+b.station_id, b.station_name, s.stop_id, s.stop_name, Distance2 (s.stop_lat, s.stop_lon, b.station_lattitude, b.station_longitude) as distance from bixi_stations b, stm_stations s
+where Distance2 (s.stop_lat, s.stop_lon, b.station_lattitude, b.station_longitude) < 100;
+
+
+-- temps moyen des déplacements
+SELECT avg(duration_sec) FROM bixi_od od;
+
+-- Nombre de déplacements
+SELECT count(stattion_code) FROM bixi_od od;
+
+-- Trouver les 3 stations Bixi las plus près
+select distinct 
+b.station_id, b.station_name, Distance2 (45.540301, -73.602041, b.station_lattitude, b.station_longitude) as distance from bixi_stations b
+order by distance limit 3;
+
+–-Même genre de requête mais avec la longitude, latitude pour afficher sur une carte.
+
+	select distinct 
+	b.station_id, b.station_lattitude, b.station_longitude, b.station_name, Distance2 (45.540301, -73.602041, 	b.station_lattitude, b.station_longitude) as distance from bixi_stations b
+	order by distance limit 3;
+
+
+-- nombre de départs en fonction de l'heure
+select  hour(od.start_date) hr, count(od.start_station_code) nb from bixi_od od
+group by hour(od.start_date) ;
+
+
+-- Répartition des stations par code postal (avec en prime l'altitude moyenne)
+select substr(b.postalcode,1,3) as codePostal, count(b.station_id), round(avg(b.altitude),2) as cnt
+from bixi_stations b
+group by substr(b.postalcode,1,3);
+
+--
+create table bixi_StartEndDuration (start_station_code int, end_station_code int, duration_sec int);
+
+insert into bixi_StartEndDuration
+	select start_station_code, end_station_code, round(avg(duration_sec)) from bixi_od
+	group by start_station_code, end_station_code;
+
+select d.start_station_code, d.end_station_code, d.duration_sec
+	from bixi_StartEndDuration d
+	join bixi_StartEndDuration a 
+
+select 
+	s1.start_station_code, s1.end_station_code, s1.duration_sec, 
+	s2.start_station_code, s2.end_station_code, s2.duration_sec, (s1.duration_sec + s2.duration_sec) as duration
+	from bixi_startendduration s1
+	join bixi_startendduration s2 on s1.end_station_code = s2.start_station_code
+	where 
+		s1.start_station_code = 5005 and
+		s2.end_station_code = 6124 
+	order by (s1.duration_sec + s2.duration_sec)
+	Limit 1;
+
+
+
+

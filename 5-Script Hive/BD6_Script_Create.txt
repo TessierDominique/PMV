@@ -1,0 +1,107 @@
+create database pmv;
+
+use pmv;
+
+-- Créer la table des stations de la STM
+
+CREATE table STM_Stations (
+stop_id string, 
+stop_code int, 
+stop_name string, 
+stop_lat float, 
+stop_lon float, 
+location_type int,
+parent_station string, 
+wheelchair_boarding int
+)
+PARTITIONED BY (year INT)
+row format DELIMITED
+FIELDS TERMINATED BY ',';
+
+--**********************************************
+
+-- Créer la table des stations BIXI
+
+CREATE table BIXI_stations (
+station_id INT,
+station_name STRING,
+station_lattitude float,
+station_longitude float,
+altitude int,
+postalCode STRING
+)
+PARTITIONED BY (year INT)
+row format DELIMITED
+FIELDS TERMINATED BY ','
+tblproperties("skip.header.line.count"="1"); 
+
+-- Créer la table temporaire des déplacements en BIXI
+-- Table temporaire pour faire l'import (staging) 
+-- car les dates ne sont pas traitées comme il faut
+
+--**********************************************
+CREATE table BIXI_OD_temp (
+start_date string, 
+start_station_code int, 
+end_date string, 
+end_station_code int, 
+duration_sec int, 
+is_member string
+)
+PARTITIONED BY (year INT, month INT)
+row format DELIMITED
+FIELDS TERMINATED BY ','
+tblproperties("skip.header.line.count"="1");
+
+-- Créer la table des déplacements en BIXI
+
+CREATE table BIXI_OD (
+start_date timestamp, 
+start_station_code int, 
+end_date timestamp, 
+end_station_code int, 
+duration_sec int, 
+is_member int
+)
+PARTITIONED BY (year INT, month INT)
+row format DELIMITED
+FIELDS TERMINATED BY ',';
+
+--**********************************************
+-- Importation des données
+
+-- Importation des stations BIXI
+LOAD data local INPATH '/home/cloudera/projetPMV/Stations_2017-5.csv' overwrite INTO TABLE BIXI_stations partition(year=2017);
+
+-- Importation des déplacements en BIXI
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-04.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=4);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-05.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=5);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-06.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=6);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-07.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=7);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-08.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=8);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-09.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=9);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-10.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=10);
+LOAD data local INPATH '/home/cloudera/projetPMV/OD_2017-11.csv' overwrite INTO TABLE BIXI_OD_temp partition(year=2017, month=11);
+
+-- Instruct hive to dynamically load partitions
+SET hive.exec.dynamic.partition = true;
+set hive.exec.dynamic.partition.mode=nonstrict;
+
+-- Transfert de la table temporaire vers la table Bixi
+insert overwrite TABLE BIXI_OD partition(year,month)
+select 
+from_unixtime(unix_timestamp(t.start_date, 'yyy-MM-dd HH:mm')),
+t.start_station_code,
+from_unixtime(unix_timestamp(t.end_date, 'yyy-MM-dd HH:mm')),
+t.end_station_code,
+t.duration_sec,
+t.is_member,
+t.year,
+t.month
+from BIXI_OD_temp t;
+
+--**********************************************
+
+-- Importation des stations de la STM
+LOAD data local INPATH '/home/cloudera/projetPMV/stop3.txt' overwrite INTO TABLE stm_stations partition(year=2017);
+
